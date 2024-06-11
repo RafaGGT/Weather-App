@@ -1,4 +1,4 @@
-const apiKey = process.env.APIKEY;
+const apiKey = //"aqui va la secuencia del codigo que se te otorga"//;
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=";
 
 const searchBox = document.querySelector(".search input");
